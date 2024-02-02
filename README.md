@@ -3,7 +3,7 @@
 <img src="https://github.com/DiogoJP202/ProjectPhone/assets/102389309/101ca7bb-669b-427b-af22-3557250e532c">
 <p>Foi feito priorizando a resposividade e foi um dos meus primeiros sites.</p>
 
-<a href="https://diogojp202.github.io/ProjectPhone/Html/index.html" target="_blank">SITE DO ANDROID AQUI</a>
+<a href="https://diogojp202.github.io/ProjectPhone/Html/index.html" target="_blank">SITE DO CELULAR AQUI</a>
 <h3>Tecnologias Utilizadas: </h3>
 <ul>
   <li> HTML;
